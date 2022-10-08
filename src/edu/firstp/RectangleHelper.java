@@ -1,4 +1,4 @@
-package myproject;
+package edu.firstp;
 
 public class RectangleHelper {
 	
